@@ -26,6 +26,7 @@ photo_5: STR
 photo_6: STR
 
 ### REALTOR
+9
 id: INT
 name: STR
 photo: STR
