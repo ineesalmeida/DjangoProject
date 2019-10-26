@@ -149,3 +149,8 @@ EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'ines.django.mailer@gmail.com'
 EMAIL_HOST_PASSWORD = 'Qwerty123!'
+
+try:
+    from .local_settings import *
+except ImportError:
+    pass
