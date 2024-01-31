@@ -1,5 +1,5 @@
 # DjangoProject
-A Django Project to learn the framework.
+A Django project created while learning how to use the framework.
 
 This website has:
   - user authentication
@@ -7,3 +7,5 @@ This website has:
   - filter and data queries
   - contact forms
   - administration area
+
+There isn't a lot of important content in this website.
